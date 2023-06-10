@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "name of commit ? "
+
+read com
+
+git add .
+
+git commit - m "${com}"
+
+git push
