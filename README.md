@@ -1,1 +1,1 @@
-alias
+do alias
